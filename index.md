@@ -9,6 +9,9 @@ sitemap:
 <img src="{{ '/assets/img/pic.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
+	
+	<p>PhD in Physics, Secondary in Data Science</p>
+  
 	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>Research Interests: <strong>Machine Learning: Interpretability and Explainibility, Visualization of AI</strong></p>
 </div>
