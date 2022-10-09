@@ -8,7 +8,7 @@ subtitle: An awesome person
 <br>
 
 ### SKILLS
-``` Comprehensive Understanding of Machine Learning Concepts like:
+Comprehensive Understanding of Machine Learning Concepts like:
 <br> Regression and Classification Models, Bayesian Model Specification, Modern Deep Neural Networks, Large Language Models
 <br> Extensive experience working with:
 <br> 1. Pytorch and Tensorflow to train, probe and test Neural
@@ -16,7 +16,7 @@ Networks
 <br> 2. D3, React and Javascript for building Interactive Web
 based Visualizations
 <br> 3. Python, Matlab and C++ for Data Science and Scientific
-computing```  
+computing
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
