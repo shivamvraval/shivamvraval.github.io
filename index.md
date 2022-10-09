@@ -14,8 +14,8 @@ sitemap:
   
 	<p>Research Interests: <strong>Machine Learning: Interpretability and Explainibility, Visualization of AI</strong></p>
 	
-	<p> Current Projects: </p>
-	<p> Interpreting Deep Neural Networks: </p>
-	<p> Explainable AI:</p>
-	<p> Data Visualization: </p>
+	<p align="left> Current Projects: </p>
+	<p align="left> Interpreting Deep Neural Networks: </p>
+	<p align="left> Explainable AI:</p>
+	<p align="left> Data Visualization: </p>
 </div>
