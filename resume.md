@@ -8,7 +8,19 @@ subtitle: An awesome person
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+``` 
+
+Comprehensive Understanding of Machine Learning Concepts like:
+<br> Regression and Classification Models, Bayesian Model Specification, Modern Deep Neural Networks, Large Language Models
+<br> Extensive experience working with:
+<br> 1. Pytorch and Tensorflow to train, probe and test Neural
+Networks
+<br> 2. D3, React and Javascript for building Interactive Web
+based Visualizations
+<br> 3. Python, Matlab and C++ for Data Science and Scientific
+computing
+
+```  
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
@@ -36,25 +48,40 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
 
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Interaction and Insight Lab - **Harvard University** <span style="float: right; ">Jan 2022 - Present </span>  
+1. Interpreting Deep Neural Networks: Probing Modularity and Specialization in Convolutional Neural Networks and Transformer
+Models: Exploring the spontaneous emergence of specialized subnetworks in CNNs and Transformers to build Interpretable Networks
+2. Explainable AI: Building Tools that extract insights from High Dimensional Data by projection to lower dimensions and Explaining
+the resulting structures of the data and gain insights from the projected clusters.
+3. Data Visualization: Extraction and Visualization of Distinguishing Features in Speech to find trends in the changes in speech over time
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Ultracold Molecules Lab - **Harvard University** <span style="float: right; ">August 2019 - Jan 2021</span>  
+1. Building and operating Experimental Vacuum System to perform Quantum Computing using Polyatomic Molecules
+2. Analysis of Experimental data to interpret and communicate novel results
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Atomic, Molecular and Optical Physics Lab - **Yale University** <span style="float: right; ">June 2018 - March 2019</span>  
+
+1. Building an Experimental Laser System to study Quantum Many-Body interactions between Bosonic atoms
+2. Constructing a hardware-software interface to obtain and analyze image data in real-time using a high speed camera
+
 
 
 ### RECOGNITION & INTERESTS
+- 2019 Purcell Fellowship
+Harvard University
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- 2012-18 Young Scientist Encouragement Scheme
+(KVPY fellowship)
+Indian Institute of Science (IISc)
+Bangalore, India
+
+ - 2016 Summer Research fellowship
+Indian Academy of Sciences (IAS)
+
+- 2015 UQ Advantage Grant
+
+- 2016 Certificate for Excellence in Contribution
+to Current Research
+University of Queensland (UQ)
+Brisbane, Australia
