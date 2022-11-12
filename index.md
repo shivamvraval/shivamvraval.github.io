@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pic.jpg' | prepend: site.baseurl }}" id="about-img" width: 50%>
+<img src="{{ '/assets/img/pic.jpg' | prepend: site.baseurl }}" id="about-img" width: 10%>
 
 <div id="describe-text">
 	
