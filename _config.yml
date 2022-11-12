@@ -8,7 +8,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://shivamvraval.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: Shivam Raval
   github: github
   linkedin: linkedin
   email: example@email.com
