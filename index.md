@@ -1,9 +1,3 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
 ---
 layout: page
@@ -13,7 +7,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pic.jpg' | prepend: site.baseurl }}" id="about-img" class="center">
+<img src="{{ '/assets/img/pic.jpg' | prepend: site.baseurl }}" id="about-img" width: 50%>
 
 <div id="describe-text">
 	
