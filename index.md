@@ -21,4 +21,4 @@ subtitle:
 ---
 
 <img src="{{ '/assets/img/pic.jpg' | prepend: site.baseurl }}" id="about-img">
-This is me!
+<p align="center">This is me!</p>
