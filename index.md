@@ -7,6 +7,8 @@
 	<p align="left> Current Projects: </p>
 	<p align="left> Interpreting Deep Neural Networks: </p>
 	<p align="left> Explainable AI: What is common between subsets of data within a clustered region in a t-SNE or UMAP projection of high-dimensional data?</p>
+		  
+<img src="{{ '/assets/img/clusters.jpg' | prepend: site.baseurl }}" id="about-img">
 	<p align="left> Data Visualization: Always curious about visualizing interesting datasets. </p>
 </div>
 
