@@ -6,10 +6,10 @@
 	
 	<p align="left> Current Projects: </p>
 	<p align="left> Interpreting Deep Neural Networks: Probing modularity and specialization in Neural Networks  </p>
-	<img src="{{ '/assets/img/branched.png' | prepend: site.baseurl }}" id="about-img">
+	<img src="{{ '/assets/img/branched.png' | prepend: site.baseurl }}" id="branched" width="500">
 	<p align="left> Explainable AI: What is common between subsets of data within a clustered region in a t-SNE or UMAP projection of high-dimensional data?</p>
 		  
-	<img src="{{ '/assets/img/clusters.png' | prepend: site.baseurl }}" id="about-img">
+	<img src="{{ '/assets/img/clusters.png' | prepend: site.baseurl }}" id="clusters" width="500">
 	<p align="left> Data Visualization: Always curious about visualizing interesting datasets. </p>
 </div>
 
