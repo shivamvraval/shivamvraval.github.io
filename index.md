@@ -1,3 +1,10 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 ---
 layout: page
 title: Hello
@@ -6,7 +13,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pic.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/pic.jpg' | prepend: site.baseurl }}" id="about-img" class="center">
 
 <div id="describe-text">
 	
