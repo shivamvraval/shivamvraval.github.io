@@ -5,9 +5,9 @@ subtitle:
 ---
 <div id="describe-text">
 	
-	<h2>PhD in Physics, Secondary in Data Science</h2>
+	<h3>PhD in Physics, Secondary in Data Science</h3>
   
-	<h2>Research Interests: <strong>Machine Learning: Interpretability and Explainibility, Visualization of AI</strong></h2>
+	<h3>Research Interests: <strong>Machine Learning: Interpretability and Explainibility, Visualization of AI</strong></h3>
 	
 	<h2 align="left"><b> Current Projects: </b></h2>
 	<p align="left"> 1. Interpreting Deep Neural Networks: Probing modularity and specialization in Neural Networks. Specialized Neurons emerge in Vision and Large Language Netowrks. Can we modify the current architecture to induce Specialization in an Interpretable way?   </p>
