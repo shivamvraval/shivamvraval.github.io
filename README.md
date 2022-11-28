@@ -1,7 +1,7 @@
 
 
-Theme for the page has been inspired by:
-[Click here](https://knhash.github.io/Pudhina/) \## Credits
+Theme for the page has been inspired by://
+Pudina Site[Click here](https://knhash.github.io/Pudhina/) \## Credits
 Inspired by the theme [Daktilo](https://github.com/kronik3r/daktilo)
 
 ## License
