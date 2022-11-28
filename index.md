@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PhD in Physics, Secondary in Data Science
-subtitle: Harvard University
+title: 
+subtitle: 
 ---
 <div id="describe-text">
 	
