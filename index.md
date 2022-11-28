@@ -18,7 +18,7 @@ subtitle:
 	<img src="{{ '/assets/img/clusters.png' | prepend: site.baseurl }}" id="clusters" width="800" align="center">
 	<br>
 	<p align="left">3.  Data Visualization: Always curious about visualizing interesting datasets! [Pretty Visuals coming soon!] </p>
-	<p align="left">4. Check out my previous research on Experimental Physics <a href = "https://scholar.google.co.in/citations?hl=en&user=hs94v8AAAAAJ" >here</a>. [TLDR] We use high powered lasers and a vacuum system to cool down atoms and molecules to ultra-low temperatures where we can observe and study Quantum phenomena. This would be usefeul to build the next-gen Quantum Computers that use the complexity of the internal structure of molecules!   </p>
+	<p align="left">4. <a href = "https://scholar.google.co.in/citations?hl=en&user=hs94v8AAAAAJ">Check out my previous research on Experimental Physics here</a>. [TLDR] We use high powered lasers and a vacuum system to cool down atoms and molecules to ultra-low temperatures where we can observe and study Quantum phenomena. This would be usefeul to build the next-gen Quantum Computers that use the complexity of the internal structure of molecules!   </p>
 	
 	
 </div>
